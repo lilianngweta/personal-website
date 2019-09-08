@@ -1,2 +1,2 @@
 # PersonalWebsite
-Personal website for Lilian Ngweta. View it at www.lilianngweta.com
+Personal website for Lilian Ngweta. View the website at lilianngweta.com
