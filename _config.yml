@@ -22,8 +22,8 @@ title: Lilian Ngweta
 email: lilianngweta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Science PhD student at Rensselaer Polytechnic Institute.
-baseurl: "lilianngweta.com" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "lilianngweta.com" # the subpath of your site, e.g. /blog
+url: "https://lilianngweta.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: liliangweta
 github_username:  lilianngweta
 linkedin_username: lilianngweta
