@@ -21,6 +21,8 @@ Before joining RPI, I worked as a research intern at Microsoft Research in Summe
 
 Outside of work and school, I like to hike, dance and listen to music. I also like to travel and to interact with people from different cultures! 
 
+<b>Email:</b> lilianngweta@gmail.com
+
 
 <br>
 ## What's New? 
