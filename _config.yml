@@ -29,6 +29,17 @@ twitter_username: liliangweta
 github_username:  lilianngweta
 linkedin_username: lilianngweta
 
+
+# minima:
+#   date_format: "%b %-d, %Y"
+
+#   # generate social links in footer
+#   social_links:
+#     twitter: liliangweta
+#     github:  lilianngweta
+#     linkedin: lilianngweta
+
+
 # Build settings
 theme: minima
 plugins:
