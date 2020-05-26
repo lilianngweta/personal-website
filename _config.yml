@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Computer Science PhD student at Rensselaer Polytechnic Institute.
 # baseurl: "lilianngweta.com" # the subpath of your site, e.g. /blog
 master_repo: false
-url: "https://lilianngweta.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lilianngweta.github.io/personal-website/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: liliangweta
 github_username:  lilianngweta
 linkedin_username: lilianngweta
