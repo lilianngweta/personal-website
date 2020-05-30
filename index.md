@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: "Lilian Ngweta"
+title: "Home"
 group: "navigation"
 
 ---
