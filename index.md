@@ -5,7 +5,6 @@ title: Home
 group: "navigation"
 
 ---
-
 <style>
 img {
   border-radius: 50%;
