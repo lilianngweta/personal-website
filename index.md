@@ -14,9 +14,11 @@ img {
 <img style="float: right;" src="picture.jpg" height="250px" width="200px">
 
 
-I am a Computer Science PhD student at Rensselaer Polytechnic Institute (RPI) in Troy, New York. My research is on using machine learning to improve public health. 
+I am a Computer Science PhD student at Rensselaer Polytechnic Institute (RPI) in Troy, New York. My research interests are on applying Machine Learning/AI to solve real world problems and I am also interested in Explainable AI. 
 
-Before joining RPI, I worked as a research intern at Microsoft Research in Summer 2018, where I implemented a robust and scalable video processing engine that performed real-time image classification and labeling using a state-of-the-art deep neural network, and measured it's performance. 
+Before joining RPI, I worked as a research intern at Microsoft Research in Redmond, Washington in Summer 2018, where I implemented a robust and scalable video processing engine that performed real-time image classification and labeling using a state-of-the-art deep neural network, and measured its performance.
+
+In summer 2020, I had the opportunity to intern at IBM Research in Yorktown Heights New York, where I worked on a project that uses Machine Learning and Natural Language Processing techniques to determine how vulnerabilities will most likely be exploited and by who.
 
 Outside of work and school, I like to hike, dance and listen to music. I also like to travel and to interact with people from different cultures! 
 
