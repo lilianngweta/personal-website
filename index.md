@@ -28,6 +28,8 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 <br>
 ## What's New? 
 
+* May 2021: Started working with Professor Qiang Ji as my PhD advisor!
+
 * May 2021: Returned to IBM Research as a Research Intern!
 
 * June 2020: Joining IBM Research as a Machine Learning Research Intern!
