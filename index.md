@@ -14,7 +14,7 @@ img {
 <img style="float: right;" src="picture.jpg" height="250px" width="200px">
 
 
-I am a Computer Science PhD student at Rensselaer Polytechnic Institute (RPI) in Troy, New York working with Prof. Qiang Ji and Prof. Kristin Bennett. My research interests are in the area of Causal Machine Learning and I am also interested in the applications of Machine Learning/AI methods to solve real world problems.
+I am a Computer Science PhD student at Rensselaer Polytechnic Institute (RPI) in Troy, New York working with Prof. Qiang Ji and Prof. Alex Gittens. My research interests are in the area of Causal Machine Learning and I am also interested in the applications of Machine Learning/AI methods to solve real world problems.
 
 Before joining RPI, I worked as a research intern at Microsoft Research in Redmond, Washington in Summer 2018, where I implemented a robust and scalable video processing engine that performed real-time image classification and labeling using a state-of-the-art deep neural network, and measured its performance.
 
@@ -27,6 +27,8 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 
 <br>
 ## What's New? 
+
+* May 2022: Started working with Professor Alex Gittens as my PhD co-advisor!
 
 * May 2021: Started working with Professor Qiang Ji as my PhD advisor!
 
