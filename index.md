@@ -16,7 +16,7 @@ img {
 
 I am a Computer Science PhD student at Rensselaer Polytechnic Institute (RPI) in Troy, New York advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a>. My research interests are in the areas of Causal Machine Learning and domain generalization/out-of-distribution (OOD) generalization. I am also interested in the applications of Machine Learning/AI methods to solve real world problems.
 
-Before joining RPI, I worked as a research intern at Microsoft Research in Redmond, Washington in Summer 2018, where I implemented a robust and scalable video processing engine that performed real-time image classification and labeling using a state-of-the-art deep neural network, and measured its performance.
+Before joining RPI, I worked as a research intern at Microsoft Research in Redmond, Washington in Summer 2018, where I implemented a robust and scalable video processing engine that performed real-time image classification and labeling using a state-of-the-art deep neural network, and measured its performance. I received my BS in Software Engineering from Barrett, The Honors College at Arizona State University.
 
 In summer 2020, I had the opportunity to intern at IBM Research in Yorktown Heights New York, where I used Machine Learning and Natural Language Processing techniques to determine how vulnerabilities will most likely be exploited and by who.
 
