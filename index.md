@@ -5,13 +5,15 @@ title: "Home"
 group: "navigation"
 
 ---
-<style>
+<!-- <style>
 img {
   border-radius: 50%;
 }
-</style>
+</style> -->
 
-<img style="float: right;" src="picture.png" height="250px" width="200px">
+<!-- <img style="float: right;" src="picture.png" height="250px" width="200px"> -->
+
+<img class="portrait" src="picture.png" width="250px">
 
 
 I am a Computer Science PhD student at Rensselaer Polytechnic Institute (RPI) in Troy, New York advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a>. My research interests are in the areas of Causal Machine Learning and domain generalization/out-of-distribution (OOD) generalization. I am also interested in the applications of Machine Learning/AI methods to solve real world problems.
