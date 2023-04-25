@@ -29,6 +29,8 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 <br>
 ## What's New? 
 
+* April 2023: Our paper [Simple Disentanglement of Style and Content in Visual Representations](https://arxiv.org/abs/2302.09795) got accepted at ICML 2023!
+
 * Summer 2022: Very privileged to work under the mentorship of <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a> this summer as an IBM Research Extern!
 
 * August 2022: <a href="https://www.cs.rpi.edu/~gittea/">Professor Alex Gittens</a> became my PhD advisor!
