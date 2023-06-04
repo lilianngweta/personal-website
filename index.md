@@ -43,7 +43,7 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 
 * May 2021: Returned to IBM Research as a Research Intern!
 
-* June 2020: Joining IBM Research as a Machine Learning Research Intern!
+* June 2020: Joining IBM Research as a Research Intern!
 
 * May 2020: Finished my Computer Science PhD qualifiers!
 
