@@ -16,7 +16,7 @@ title: Research
 
 # Patents
 
-* <b>L Ngweta</b>, S Ocepek, CM Adam, S Zeng, MF Bulut, MH Hernandez. Vulnerability and attack technique association. Filed on Oct 23, 2020.
+* <b>LM Ngweta</b>, S Ocepek, CM Adam, S Zeng, MF Bulut, MH Hernandez. Vulnerability and attack technique association. Filed on Oct 23, 2020.
 
-* MF Bulut, AA Adebayo, <b>L Ngweta</b>, T Dai, CM Adam, DM Sow, S Ocepek. A system and method for mapping compliance security checks into mitigation techniques and to vulnerabilities for risk assessment. Filed on Dec 08, 2021.
+* MF Bulut, AA Adebayo, <b>LM Ngweta</b>, T Dai, CM Adam, DM Sow, S Ocepek. Combining policy compliance and vulnerability management for risk assessment. Filed on Dec 08, 2021.
 
