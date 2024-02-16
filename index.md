@@ -16,7 +16,7 @@ img {
 <img style="float: right; padding: 0px 0px 10px 10px;" class="portrait" src="picture.png" width="200px">
 
 
-I am a Computer Science PhD student at Rensselaer Polytechnic Institute (RPI) in Troy, New York advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a>. My research interests are in the areas of out-of-distribution (OOD) generalization, causal machine learning, and the applications of AI in solving real world problems.
+I am a Computer Science PhD candidate at Rensselaer Polytechnic Institute (RPI) in Troy, New York advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a>. My current research focuses on post-processing techniques for alignment of vision and text foundation models. I am also interested in the out-of-distribution (OOD) generalization research and the applications of AI in solving real world problems.
 
 Before joining RPI, I worked as a research intern at Microsoft Research in Redmond, Washington in Summer 2018, where I implemented a robust and scalable video processing engine that performed real-time image classification and labeling using a state-of-the-art deep neural network, and measured its performance. I received my BS in Software Engineering from Barrett, The Honors College at Arizona State University.
 
@@ -28,6 +28,8 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 
 <br>
 ## What's New? 
+
+* February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://openreview.net/forum?id=E6WukV41He&noteId=stLD1GvN6K) got accepted as a tiny paper at ICLR 2024!
 
 * Summer 2023: Excited to return to IBM Research as a Research Extern this summer, mentored by <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a>!
 
