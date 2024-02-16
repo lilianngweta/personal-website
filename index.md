@@ -29,7 +29,7 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 <br>
 ## What's New? 
 
-* February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://openreview.net/forum?id=E6WukV41He&noteId=stLD1GvN6K) got accepted as a tiny paper at ICLR 2024!
+* February 2024: Our work [Aligners: Decoupling LLMs and Alignment](coming-soon) got accepted as a tiny paper at ICLR 2024!
 
 * Summer 2023: Excited to return to IBM Research as a Research Extern this summer, mentored by <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a>!
 
