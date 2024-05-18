@@ -37,9 +37,9 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 
 * Summer 2022: Very privileged to work under the mentorship of <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a> this summer as an IBM Research Extern!
 
-* August 2022: <a href="https://www.cs.rpi.edu/~gittea/">Professor Alex Gittens</a> became my PhD advisor!
+* August 2022: Started working with <a href="https://www.cs.rpi.edu/~gittea/">Professor Alex Gittens</a> as my PhD advisor!
 
-* May 2022: Started working with <a href="https://www.cs.rpi.edu/~gittea/">Professor Alex Gittens</a> as my PhD co-advisor!
+<!-- * May 2022: Started working with <a href="https://www.cs.rpi.edu/~gittea/">Professor Alex Gittens</a> as my PhD co-advisor!
 
 * May 2021: Started working with <a href="https://sites.ecse.rpi.edu/~qji/">Professor Qiang Ji</a> as my PhD advisor!
 
@@ -49,5 +49,5 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 
 * May 2020: Finished my Computer Science PhD qualifiers!
 
-* May 2020: Receiced my Master's degree in Computer Science from RPI!
+* May 2020: Receiced my Master's degree in Computer Science from RPI! -->
 
