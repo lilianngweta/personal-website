@@ -27,7 +27,7 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 
 
 <br>
-## What's New? 
+## Updates! 
 
 * February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://arxiv.org/abs/2403.04224) got accepted as a tiny paper for an <span style="color:green">**oral presentation**</span> at ICLR 2024!
 
