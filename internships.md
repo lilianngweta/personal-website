@@ -6,6 +6,8 @@ title: Internships
 ---
 # Internships
 
+* Research Intern, <b> IBM Research AI </b>, Summer 2024 - Cambridge, MA
+
 * Research Extern, <b> IBM Research (MIT-IBM Watson AI Lab) </b>, Summer 2023 - Cambridge, MA
 
 * Research Extern, <b> IBM Research (MIT-IBM Watson AI Lab) </b>, Summer 2022 - Cambridge, MA
