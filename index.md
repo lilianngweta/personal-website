@@ -29,7 +29,7 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 <br>
 ## Updates! 
 
-* June 2024: A full-length preprint version of our work Aligners: Decoupling LLMs and Alignment](https://arxiv.org/abs/2403.04224) is now available!
+* June 2024: A full-length preprint version of our work [Aligners: Decoupling LLMs and Alignment](https://arxiv.org/abs/2403.04224) is now available!
 
 * Summer 2024: Excited to intern with a team in the AI-powered Automation group at IBM Research led by [Dr. Yara Rizk](https://scholar.google.com/citations?user=llV-0hwAAAAJ&hl=en), mentored by [Dr. Jason Tsay](https://www.jsntsay.com/) and Kiran Kate!
 
