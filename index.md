@@ -33,7 +33,7 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 
 * Summer 2024: Excited to intern with a team in the AI-powered Automation group at IBM Research led by [Dr. Yara Rizk](https://scholar.google.com/citations?user=llV-0hwAAAAJ&hl=en), mentored by [Dr. Jason Tsay](https://www.jsntsay.com/) and Kiran Kate!
 
-* February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://arxiv.org/abs/2403.04224) got accepted as a tiny paper for an <span style="color:green">**oral presentation**</span> at ICLR 2024!
+* February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://openreview.net/forum?id=E6WukV41He&referrer=%5Bthe%20profile%20of%20Lilian%20Ngweta%5D(%2Fprofile%3Fid%3D~Lilian_Ngweta1)) got accepted as a tiny paper for an <span style="color:green">**oral presentation**</span> at ICLR 2024!
 
 * Summer 2023: Excited to return to IBM Research as a Research Extern this summer, mentored by <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a>!
 
