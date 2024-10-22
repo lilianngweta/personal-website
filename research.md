@@ -6,7 +6,8 @@ title: Research
 ---
 # Publications
 
-* <b>L Ngweta</b>, M Agarwal, S Maity, A Gittens, Y Sun, M Yurochkin. Aligners: Decoupling LLMs and Alignment. A short version was accepted as a Tiny Paper at the *International Conference on Learning Representations (ICLR) 2024* <span style="color:green">**(Oral)**</span>.<br>*Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024 Findings*.<br>[[Paper](https://arxiv.org/pdf/2403.04224)] [[Code](https://github.com/lilianngweta/aligners-and-inspectors)] 
+* <b>L Ngweta</b>, M Agarwal, S Maity, A Gittens, Y Sun, M Yurochkin. Aligners: Decoupling LLMs and Alignment. 
+Tiny Papers at the *International Conference on Learning Representations (ICLR) 2024* <span style="color:green">**(Oral)**</span>.<br>*Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024 Findings*.<br>[[Paper](https://arxiv.org/pdf/2403.04224)] [[Code](https://github.com/lilianngweta/aligners-and-inspectors)] 
 
 * <b>L Ngweta</b>\*, S Maity\*, A Gittens, Y Sun, M Yurochkin. Simple Disentanglement of Style and Content in Visual Representations. (\*equal contribution).<br>*International Conference on Machine Learning (ICML) 2023*. <br>[[Paper](https://proceedings.mlr.press/v202/ngweta23a/ngweta23a.pdf)] [[Code](https://github.com/lilianngweta/PISCO)]
 
