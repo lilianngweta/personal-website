@@ -33,7 +33,7 @@ Outside of work and school, I like to hike, dance and listen to music. I also li
 
 * June 2024: A full-length preprint of our work [Aligners: Decoupling LLMs and Alignment](https://arxiv.org/abs/2403.04224) is now available!
 
-* Summer 2024: Excited to intern with a team in the AI-powered Automation group at IBM Research led by [Dr. Yara Rizk](https://scholar.google.com/citations?user=llV-0hwAAAAJ&hl=en), mentored by [Dr. Jason Tsay](https://www.jsntsay.com/) and Kiran Kate!
+* Summer 2024: Excited to intern with a team in the AI-powered Automation group at IBM Research led by [Dr. Yara Rizk](https://scholar.google.com/citations?user=llV-0hwAAAAJ&hl=en), mentored by [Dr. Jason Tsay](https://www.jsntsay.com/) and [Kiran Kate](https://www.linkedin.com/in/kiran-kate-8b98672/)!
 
 * February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://openreview.net/forum?id=E6WukV41He&referrer=%5Bthe%20profile%20of%20Lilian%20Ngweta%5D(%2Fprofile%3Fid%3D~Lilian_Ngweta1)) got accepted as a tiny paper for an <span style="color:green">**oral presentation**</span> at ICLR 2024!
 
