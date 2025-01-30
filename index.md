@@ -23,7 +23,7 @@ Before joining RPI, I worked as a research intern at Microsoft Research in Redmo
 <!-- In summer 2020, I had the opportunity to intern at IBM Research in Yorktown Heights New York, where I used Machine Learning and Natural Language Processing techniques to determine how vulnerabilities will most likely be exploited and by who. -->
 Outside of work and school, I like to hike, dance and listen to music. I also like to travel and to interact with people from different cultures! 
 
-<b>Email:</b> lilianngweta@gmail.com
+<!-- <b>Email:</b> lilianngweta@gmail.com  -->
 
 
 <br>
