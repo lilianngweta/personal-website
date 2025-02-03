@@ -16,7 +16,7 @@ img {
 <img style="float: right; padding: 0px 0px 10px 10px;" class="portrait" src="picture.png" width="200px">
 
 
-I am a Computer Science PhD candidate at Rensselaer Polytechnic Institute (RPI) in Troy, New York advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a> in collaboration with <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> from IBM Research (MIT-IBM Watson AI Lab) and <a href="https://yuekai.github.io">Prof. Yuekai Sun</a> from University of Michigan. My current research focuses on efficient techniques for alignment of foundation models. I am also interested in the out-of-distribution (OOD) generalization research and the applications of AI in solving real world problems.
+I am a final-year Computer Science PhD candidate at Rensselaer Polytechnic Institute (RPI) in Troy, New York advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a> in collaboration with <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> from IBM Research (MIT-IBM Watson AI Lab) and <a href="https://yuekai.github.io">Prof. Yuekai Sun</a> from University of Michigan. My current research focuses on efficient techniques for alignment of foundation models. I am also interested in the out-of-distribution (OOD) generalization research and the applications of AI in solving real world problems.
 
 Before joining RPI, I worked as a research intern at Microsoft Research in Redmond, Washington in Summer 2018, where I implemented a robust and scalable video processing engine that performed real-time image classification and labeling using a state-of-the-art deep neural network, and measured its performance. I received my BS in Software Engineering from Barrett, The Honors College at Arizona State University.
 
