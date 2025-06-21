@@ -5,7 +5,7 @@ title: Research
 
 ---
 
-## Check out my [Google Scholar] page.
+### Check out my [Google Scholar](https://scholar.google.com/citations?user=PoJf-C8AAAAJ&hl=en) page.
 
 # Papers
 

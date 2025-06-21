@@ -31,21 +31,21 @@ I am a Research Scientist at IBM Research in Cambridge, MA. I completed my PhD 
 <br>
 ## Updates! 
 
-* Our work on [prompt brittleness](https://aclanthology.org/2025.naacl-srw.51/) was accepted to NAACL SRW 2025! 
+* March 2025: Our work on [prompt brittleness](https://aclanthology.org/2025.naacl-srw.51/) was accepted to NAACL SRW 2025! 
 
 * Spring 2025: Graduated with a PhD in Computer Science from RPI!
 
 * September 2024: Our [aligners](https://arxiv.org/pdf/2403.04224) paper has been accepted to EMNLP 2024 Findings!
 
-* June 2024: A full-length preprint of our work [Aligners: Decoupling LLMs and Alignment](https://arxiv.org/abs/2403.04224) is now available!
+<!-- * June 2024: A full-length preprint of our work [Aligners: Decoupling LLMs and Alignment](https://arxiv.org/abs/2403.04224) is now available! -->
 
 <!-- * Summer 2024: Excited to intern with a team in the AI-powered Automation group at IBM Research led by [Dr. Yara Rizk](https://scholar.google.com/citations?user=llV-0hwAAAAJ&hl=en), mentored by [Dr. Jason Tsay](https://www.jsntsay.com/) and [Kiran Kate](https://www.linkedin.com/in/kiran-kate-8b98672/)! -->
 
-* February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://openreview.net/forum?id=E6WukV41He&referrer=%5Bthe%20profile%20of%20Lilian%20Ngweta%5D(%2Fprofile%3Fid%3D~Lilian_Ngweta1)) got accepted as a tiny paper for an <span style="color:green">**oral presentation**</span> at ICLR 2024!
+<!-- * February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://openreview.net/forum?id=E6WukV41He&referrer=%5Bthe%20profile%20of%20Lilian%20Ngweta%5D(%2Fprofile%3Fid%3D~Lilian_Ngweta1)) got accepted as a tiny paper for an <span style="color:green">**oral presentation**</span> at ICLR 2024! -->
 
 <!-- * Summer 2023: Excited to return to IBM Research as a Research Extern this summer, mentored by <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a>! -->
 
-* April 2023: Our paper [Simple Disentanglement of Style and Content in Visual Representations](https://arxiv.org/abs/2302.09795) got accepted at ICML 2023!
+<!-- * April 2023: Our paper [Simple Disentanglement of Style and Content in Visual Representations](https://arxiv.org/abs/2302.09795) got accepted at ICML 2023! -->
 
 <!-- * Summer 2022: Very privileged to work under the mentorship of <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a> this summer as an IBM Research Extern! -->
 
