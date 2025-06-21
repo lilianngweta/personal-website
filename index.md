@@ -16,7 +16,7 @@ img {
 <img style="float: right; padding: 0px 0px 10px 10px;" class="portrait" src="picture.png" width="200px">
 
 
-I am a Research Scientist at IBM Research in Cambridge, MA. I completed my PhD in Computer Science at Rensselaer Polytechnic Institute (RPI), where I was advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a> in collaboration with <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Prof. Yuekai Sun</a>. Before RPI, I graduated with a Bachelor’s degree in Software Engineering from Barrett, The Honors College at Arizona State University. During my studies, I did summer research internships at IBM Research and Microsoft Research.
+I am a Research Scientist at IBM Research in Cambridge, MA. I completed my PhD in Computer Science at Rensselaer Polytechnic Institute (RPI), where I was advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a> in collaboration with <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Prof. Yuekai Sun</a>. Before RPI, I obtained a Bachelor’s degree in Software Engineering from Barrett, The Honors College at Arizona State University. During my studies, I did summer research internships at IBM Research and Microsoft Research.
 
 <!-- My current research focuses on efficient techniques for alignment of foundation models. I am also interested in the out-of-distribution (OOD) generalization research and the applications of AI in solving real world problems. -->
 
@@ -41,11 +41,11 @@ I am a Research Scientist at IBM Research in Cambridge, MA. I completed my PhD 
 
 <!-- * Summer 2024: Excited to intern with a team in the AI-powered Automation group at IBM Research led by [Dr. Yara Rizk](https://scholar.google.com/citations?user=llV-0hwAAAAJ&hl=en), mentored by [Dr. Jason Tsay](https://www.jsntsay.com/) and [Kiran Kate](https://www.linkedin.com/in/kiran-kate-8b98672/)! -->
 
-<!-- * February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://openreview.net/forum?id=E6WukV41He&referrer=%5Bthe%20profile%20of%20Lilian%20Ngweta%5D(%2Fprofile%3Fid%3D~Lilian_Ngweta1)) got accepted as a tiny paper for an <span style="color:green">**oral presentation**</span> at ICLR 2024! -->
+* February 2024: Our work [Aligners: Decoupling LLMs and Alignment](https://openreview.net/forum?id=E6WukV41He&referrer=%5Bthe%20profile%20of%20Lilian%20Ngweta%5D(%2Fprofile%3Fid%3D~Lilian_Ngweta1)) got accepted as a tiny paper for an <span style="color:green">**oral presentation**</span> at ICLR 2024!
 
 <!-- * Summer 2023: Excited to return to IBM Research as a Research Extern this summer, mentored by <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a>! -->
 
-<!-- * April 2023: Our paper [Simple Disentanglement of Style and Content in Visual Representations](https://arxiv.org/abs/2302.09795) got accepted at ICML 2023! -->
+* April 2023: Our paper [Simple Disentanglement of Style and Content in Visual Representations](https://arxiv.org/abs/2302.09795) got accepted at ICML 2023!
 
 <!-- * Summer 2022: Very privileged to work under the mentorship of <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Dr. Yuekai Sun</a> this summer as an IBM Research Extern! -->
 
