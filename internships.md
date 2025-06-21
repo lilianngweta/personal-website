@@ -1,9 +1,14 @@
 ---
 
 layout: page
-title: Internships
+title: Work Experience
 
 ---
+# Current Role
+
+* Research Scientist at <b> IBM Research AI </b> in Cambridge, MA
+
+<br>
 # Internships
 
 * Research Intern, <b> IBM Research AI </b>, Summer 2024 - Cambridge, MA

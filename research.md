@@ -4,7 +4,12 @@ layout: page
 title: Research
 
 ---
+
+## Check out my [Google Scholar] page.
+
 # Papers
+
+* <b>L Ngweta</b>, K Kate, J Tsay, Y Rizk. Towards LLMs Robustness to Changes in Prompt Format Styles. <br>*NAACL Student Research Workshop (SRW) 2025*. <br>[[Paper](https://aclanthology.org/2025.naacl-srw.51.pdf)] [[Code](https://github.com/lilianngweta/mof)]
 
 * <b>L Ngweta</b>, M Agarwal, S Maity, A Gittens, Y Sun, M Yurochkin. Aligners: Decoupling LLMs and Alignment. <br>Tiny Papers at the *International Conference on Learning Representations (ICLR) 2024* <span style="color:green">**(Oral)**</span>.<br>*Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024 Findings*.<br>[[Paper](https://arxiv.org/pdf/2403.04224)] [[Code](https://github.com/lilianngweta/aligners-and-inspectors)] 
 
