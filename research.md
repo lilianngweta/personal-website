@@ -25,5 +25,5 @@ title: Research
 
 * <b>LM Ngweta</b>, S Ocepek, CM Adam, S Zeng, MF Bulut, MH Hernandez. Vulnerability and attack technique association. Filed on Oct 23, 2020. <b>*Granted*</b> on March 5, 2024. Patent number: [11924239](https://patentimages.storage.googleapis.com/d6/0a/67/713c98f9530097/US11924239.pdf)
 
-* MF Bulut, AA Adebayo, <b>LM Ngweta</b>, T Dai, CM Adam, DM Sow, S Ocepek. Combining policy compliance and vulnerability management for risk assessment. Filed on Dec 08, 2021. Pending.
+* MF Bulut, AA Adebayo, <b>LM Ngweta</b>, T Dai, CM Adam, DM Sow, S Ocepek. Combining policy compliance and vulnerability management for risk assessment. Filed on Dec 08, 2021. <b>*Granted*</b> on August 12, 2025. Patent number: [12386970](https://patents.google.com/patent/US12386970B2/en)
 
