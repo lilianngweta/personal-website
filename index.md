@@ -17,7 +17,7 @@ img {
 
 
 I am a Research Scientist at IBM Research in Cambridge, MA. I completed my PhD in Computer Science at Rensselaer Polytechnic Institute (RPI), where I was advised by <a href="https://www.cs.rpi.edu/~gittea/">Prof. Alex Gittens</a> in collaboration with <a href="https://moonfolk.github.io">Dr. Mikhail Yurochkin</a> and <a href="https://yuekai.github.io">Prof. Yuekai Sun</a>. Before RPI, I obtained a Bachelor’s degree in Software Engineering from Barrett, The Honors College at Arizona State University. During my studies, I did summer research internships at IBM Research and Microsoft Research.
-
+<br>
 <!-- My current research focuses on efficient techniques for alignment of foundation models. I am also interested in the out-of-distribution (OOD) generalization research and the applications of AI in solving real world problems. -->
 
 <!-- Before joining RPI, I worked as a research intern at Microsoft Research in Redmond, Washington in Summer 2018, where I implemented a robust and scalable video processing engine that performed real-time image classification and labeling using a state-of-the-art deep neural network, and measured its performance. I received my BS in Software Engineering from Barrett, The Honors College at Arizona State University.
@@ -26,7 +26,7 @@ I am a Research Scientist at IBM Research in Cambridge, MA. I completed my PhD 
 <!-- Outside of work and school, I like to hike, dance and listen to music. I also like to travel and to interact with people from different cultures!  -->
 
 <!-- <b>Email:</b> lilianngweta@gmail.com  -->
-
+I currently work on improving efficiency and reliability in AI agents.
 
 <br>
 ## Updates! 
