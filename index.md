@@ -26,7 +26,7 @@ I am a Research Scientist at IBM in Cambridge, MA. I completed my PhD in Comput
 <!-- Outside of work and school, I like to hike, dance and listen to music. I also like to travel and to interact with people from different cultures!  -->
 
 <!-- <b>Email:</b> lilianngweta@gmail.com  -->
-My current research focuses on training world models for Physical AI, and I am also interested in improving the efficiency and reliability of AI agents.
+My current research focuses on training world models for Physical AI. Additional research interests include improving the efficiency and reliability of AI agents.
 
 <br>
 ## Updates! 
